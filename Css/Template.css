@@ -451,7 +451,7 @@ button {
 
 .home {
     min-height: calc(100vh - 75px);
-
+    margin-top: 3em;
     display: flex;
     align-items: center;
 
@@ -559,7 +559,8 @@ button {
 ======================================== */
 
 .home-role {
-    margin-bottom: 24px;
+    margin-top: 15px;
+    margin-bottom: 15px;
 
     color: var(--text-secondary);
 
